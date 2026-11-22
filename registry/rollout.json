@@ -1,0 +1,13 @@
+{
+  "release": "2026.04",
+  "surface": "product-detail-sheet",
+  "modules": [
+    { "key": "nav-shell", "owner": "dengjunyan" },
+    { "key": "hero-gallery", "owner": "dengjunyan" },
+    { "key": "sku-panel", "owner": "linwei" },
+    { "key": "reviews-panel", "owner": "linwei" },
+    { "key": "spec-sheet", "owner": "qiaoyu" },
+    { "key": "compare-drawer", "owner": "qiaoyu" },
+    { "key": "coupon-strip", "owner": "qiaoyu" }
+  ]
+}
