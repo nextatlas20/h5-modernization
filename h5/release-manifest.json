@@ -1,0 +1,5 @@
+{
+  "release": "2026.04",
+  "ported_modules": ["nav-shell", "reviews-panel", "spec-sheet"],
+  "state_counts": {"ported": 3, "in-progress": 2, "blocked": 1, "not-started": 1}
+}
